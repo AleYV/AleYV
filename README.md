@@ -10,7 +10,6 @@ const Ale = {
   tools: [React, Redux, NodeJS, Styled-Components]
 }
 ```
-
 [![Linkedin: AleYV](https://img.shields.io/badge/-AleYV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alesandra-yagi/)](www.linkedin.com/in/alesandra-yagi/)
 
 <!--
