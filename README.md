@@ -1,6 +1,6 @@
 <h2> Hola, Soy Alesandra <img src="https://media.giphy.com/media/LTNnBVqQFeEVq20LHg/giphy.gif" width="50"></h2>
 
-<p><em>Estudiante de Ciencia de la Computación en la <a href="https://www.uni.edu.pe/">Universidad Nacional de Ingeniería </a><img src="https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif" width="40"></em></p>
+<p><em>Estudiante de Ciencia de la Computación en la <a href="https://www.uni.edu.pe/">Universidad Nacional de Ingeniería </a></em></p>
 
 ### <img src="https://media.giphy.com/media/3oEjI1HX6X3Z2qU8Lu/giphy.gif" width="50"> Un poco sobre mí ... 
 
