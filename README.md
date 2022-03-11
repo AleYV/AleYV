@@ -1,9 +1,7 @@
-<h2> Hola, Soy Alesandra <img src="https://media.giphy.com/media/xlcR4sYSBT34fQqApS/giphy.gif" width="50"></h2>
+<h2> Hola, Soy Alesandra <img src="https://media.giphy.com/media/LTNnBVqQFeEVq20LHg/giphy.gif" width="50"></h2>
 
-<p align="center">
-  <a href="www.linkedin.com/in/alesandra-yagi/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alesandra Yagi's LinkedIn Profile" height="30" width="30">
-  </a>
+<p><em>Estudiante de Ciencia de la Computacion en la <a href="http://www.unb.br">Universidad Nacional de Ingenieria</a><img src="https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif" width="40"></em></p>
+
 
 
 <!--
