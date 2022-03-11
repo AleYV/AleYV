@@ -5,6 +5,10 @@
 📌Portafolio: https://aleyv.github.io/Portfolio/
 
 ### <img src="https://media.giphy.com/media/3oEjI1HX6X3Z2qU8Lu/giphy.gif" width="50"> Un poco sobre mí ... 
+- ✍️ &nbsp; Actualmente aprendiendo más tecnologias de FrontEnd.
+- 🥰 &nbsp; Me gustan los libros de fantasia y los videojuegos.
+
+<br/>
 
 ```javascript
 const Ale = {
