@@ -1,8 +1,15 @@
 <h2> Hola, Soy Alesandra <img src="https://media.giphy.com/media/LTNnBVqQFeEVq20LHg/giphy.gif" width="50"></h2>
 
-<p><em>Estudiante de Ciencia de la Computacion en la <a href="http://www.unb.br">Universidad Nacional de Ingenieria</a><img src="https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif" width="40"></em></p>
+<p><em>Estudiante de Ciencia de la Computación en la <a href="https://www.uni.edu.pe/">Universidad Nacional de Ingeniería </a><img src="https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif" width="40"></em></p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mí ... 
 
+```javascript
+const Ale = {
+  code: [Javascript,  HTML, CSS, Python, Java],
+  tools: [React, Redux, NodeJS, Styled-Components]
+}
+```
 
 <!--
 **AleYV/AleYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
