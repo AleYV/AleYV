@@ -1,4 +1,4 @@
-<h2> Hola, Soy Alesandra <img src="https://giphy.com/gifs/molangofficialpage-love-cute-xlcR4sYSBT34fQqApS" width="50"></h2>
+<h2> Hola, Soy Alesandra <img src="https://giphy.com/gifs/molangofficialpage-love-cute-xlcR4sYSBT34fQqApS/giphy.gif" width="50"></h2>
 
 <p align="center">
   <a href="www.linkedin.com/in/alesandra-yagi/">
