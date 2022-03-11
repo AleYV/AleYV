@@ -11,6 +11,9 @@ const Ale = {
 }
 ```
 
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alesandra-yagi/)](www.linkedin.com/in/alesandra-yagi/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/AleYV)
+
 <!--
 **AleYV/AleYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
