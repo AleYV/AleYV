@@ -2,6 +2,8 @@
 
 <p><em>Estudiante de Ciencia de la Computación en la <a href="https://www.uni.edu.pe/">Universidad Nacional de Ingeniería </a></em></p>
 
+📌Portafolio: https://aleyv.github.io/Portfolio/
+
 ### <img src="https://media.giphy.com/media/3oEjI1HX6X3Z2qU8Lu/giphy.gif" width="50"> Un poco sobre mí ... 
 
 ```javascript
@@ -10,23 +12,14 @@ const Ale = {
   tools: [React, Redux, NodeJS, Styled-Components]
 }
 ```
+
+<h3> 🤝🏻 Social </h3>
+
+
 <p align="center">
   <a href="www.linkedin.com/in/alesandra-yagi/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alesandra Yagi's LinkedIn" height="30" width="30">
   </a>
 </p>
 
-<!--
-**AleYV/AleYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
