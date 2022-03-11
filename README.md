@@ -10,7 +10,11 @@ const Ale = {
   tools: [React, Redux, NodeJS, Styled-Components]
 }
 ```
-<a href="www.linkedin.com/in/alesandra-yagi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+<p align="center">
+  <a href="www.linkedin.com/in/alesandra-yagi/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alesandra Yagi's LinkedIn" height="30" width="30">
+  </a>
+</p>
 
 <!--
 **AleYV/AleYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
