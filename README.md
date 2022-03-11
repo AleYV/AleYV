@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2> Hola, Soy Alesandra <img src="https://giphy.com/gifs/molangofficialpage-love-cute-xlcR4sYSBT34fQqApS" width="50"></h2>
+
+<p align="center">
+  <a href="www.linkedin.com/in/alesandra-yagi/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alesandra Yagi's LinkedIn Profile" height="30" width="30">
+  </a>
+
 
 <!--
 **AleYV/AleYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
