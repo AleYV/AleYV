@@ -2,7 +2,7 @@
 
 <p><em>Estudiante de Ciencia de la Computación en la <a href="https://www.uni.edu.pe/">Universidad Nacional de Ingeniería </a><img src="https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif" width="40"></em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mí ... 
+### <img src="https://media.giphy.com/media/3oEjI1HX6X3Z2qU8Lu/giphy.gif" width="50"> Un poco sobre mí ... 
 
 ```javascript
 const Ale = {
