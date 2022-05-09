@@ -21,7 +21,7 @@ const Ale = {
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/alesandra-yagi/">
+  <a href="https://www.linkedin.com/in/alesandra-yagi/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alesandra Yagi's LinkedIn" height="30" width="30">
   </a>
 </p>
