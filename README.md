@@ -13,7 +13,7 @@
 ```javascript
 const Ale = {
   code: [Javascript,  HTML, CSS, Python, Java],
-  tools: [React, Redux, NodeJS, Styled-Components]
+  tools: [React, Redux, NodeJS, AngularJS, Styled-Components]
 }
 ```
 
